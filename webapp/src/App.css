@@ -1,0 +1,6 @@
+.app-root {
+  background: #333;
+}
+.hide-scroll-bar::-webkit-scrollbar {
+  display: none;
+}
